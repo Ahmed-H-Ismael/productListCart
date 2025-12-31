@@ -12,6 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "homepage": "https://ahmed-h-ismael.github.io/productListCart"
+
   },
   "scripts": {
     "predeploy": "npm run build",
