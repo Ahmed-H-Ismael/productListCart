@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ahmed-h-ismael.github.io/productListCart",
   "name": "product-list-cart",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +13,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://ahmed-h-ismael.github.io/productListCart",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
